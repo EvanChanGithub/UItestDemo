@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user3>
+		<menuName value="内部公文" />
+		<submenuName2 value="待办公文" />
+		<document value="通用拟文"/>
+		<fgldopinion value="分管领导同意，送回拟稿人……" />
+	</user3>
+</root>

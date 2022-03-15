@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<loginurl>http://218.14.157.178:9999/oa/index.ptl</loginurl>
+	<oldloginurl>http://218.14.157.193:8086/oa/index_turn_oa.ptl</oldloginurl>
+	<oldmainurl>http://218.14.157.193:8086/oa/main.ptl</oldmainurl>
+	<mainurl>http://218.14.157.178:9999/oa/main.ptl</mainurl>
+</root>

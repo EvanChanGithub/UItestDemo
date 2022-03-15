@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user4>
+		<menuName2 value="单位公文" />
+		<receivedisposal  value1="通用收文" value2="E笔办文通用收文"/>
+		<documentName  value="通用收文"/>
+		<submenuName1 value="收文箱" />
+		<submenu1Node1 value="收文处理" />
+		<submenu1Node2 value="纸质收文" />
+		<submenu1Node4 value="全部收文" />
+		<receiveNumber value="测试来文文号"/>
+		<receiveFrom value="测试来文单位"/>
+		<receivetype value1="上级文件" value2="平级文件" value3="下级文件" />
+		<receiveDate value=""/>
+		<receiveTimeLimit value=""/>
+		<publicMode value1="不公开" value2="依申请公开" value3="主动公开"/>
+		<emergency value1="常规" value2="急件" value3="特急"/>
+		<documentDeal value1="通用处理" value2="呈批" value3="签阅"/>
+		<documentTitle value="测试通用收文流程"/>
+		<lydwremark value="来文单位附注………………"/>
+		<bgsryopinion value="拟送股室负责人xxxx审核……" />		
+		<isText value1=""/> 
+		<text value="测试短信通知内容…………" />
+		<remark value="备注………………"/>
+	</user4>
+</root>

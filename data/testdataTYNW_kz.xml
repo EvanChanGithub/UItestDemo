@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user2>
+		<menuName value="内部公文" />
+		<submenuName1 value="新建公文" />
+		<submenuName2 value="待办公文" />
+		<document value="通用拟文"/>
+		<kzopinion value="科室负责人同意，拟送局领导xxxx审核……" />
+		<fgld value="流程局局长" />
+	</user2>
+</root>

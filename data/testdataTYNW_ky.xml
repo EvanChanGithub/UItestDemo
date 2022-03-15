@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user1>
+		<menuName value="内部公文" />
+		<submenuName1 value="新建公文" />
+		<submenuName3 value="草稿箱" />
+		<document value="通用拟文"/>
+		<title value="测试通用拟文"/>
+		<draftPerson value="测试发文科员"/>
+		<publicMode value1="不公开" value2="依申请公开" value3="主动公开"/>
+		<emergency value1="常规" value2="急件" value3="特急"/>
+		<title value=""/>
+		<remark value="测试附注………………"/>
+		<kyopinion value="拟送股室负责人xxxx审核……" />
+		<isText value1=""/> 
+		<text value="测试短信通知内容…………" />
+		<gsfzr value="流程科科室科长" />
+		<cwcl value="流程局办公室人员" />
+		<mainDelivery value="演示用部门"/>
+		<secondDelivery value=""/>
+		<attachmentPath value="G:\zm工作资料\CZW工作资料\测试文档\回执.rar"/>
+	</user1>
+</root>
